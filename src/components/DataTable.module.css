@@ -1,0 +1,22 @@
+.filterWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0 40px 0;
+}
+
+.paginationWrapper {
+  display: flex;
+  justify-content: flex-end;
+  margin: 24px 0;
+}
+
+.progressRow {
+  height: 200px;
+    position: relative;
+}
+
+.circle {
+  position: absolute;
+    top: 45%;
+    left: 50%;
+}

@@ -1,0 +1,31 @@
+.textRow {
+  position: relative;
+  height: 200px;
+}
+
+.textSpan {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.statusSpan {
+  padding: 3px 15px;
+  border-radius: 13px;
+}
+
+.Upcoming {
+  color: orange;
+  background-color: rgb(250, 237, 211);
+}
+
+.Success {
+  color: green;
+  background-color: rgb(207, 245, 207);
+}
+
+.Fail {
+  color: red;
+  background-color: rgb(243, 215, 215);
+}

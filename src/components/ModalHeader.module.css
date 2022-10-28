@@ -1,0 +1,14 @@
+.patchImg {
+  height: 64px;
+  width: 64px;
+}
+
+.container{
+  margin-bottom: 24px;
+  column-gap: 36px;
+}
+
+.container p {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
